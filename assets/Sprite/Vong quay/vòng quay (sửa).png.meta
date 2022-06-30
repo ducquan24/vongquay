@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "137a7997-3d0f-4a58-83bd-bb2f01a9694a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 709,
+  "height": 709,
+  "platformSettings": {},
+  "subMetas": {
+    "vòng quay (sửa)": {
+      "ver": "1.0.4",
+      "uuid": "804c12ca-a8cb-464c-942a-64ba35e67062",
+      "rawTextureUuid": "137a7997-3d0f-4a58-83bd-bb2f01a9694a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 709,
+      "height": 709,
+      "rawWidth": 709,
+      "rawHeight": 709,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

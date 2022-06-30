@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "1d57ba0f-10ae-42a2-aaaa-f0228de04a22",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 514,
+  "height": 968,
+  "platformSettings": {},
+  "subMetas": {
+    "popup - xem phim": {
+      "ver": "1.0.4",
+      "uuid": "c5662736-826b-4693-992a-89c2cb2f1cd2",
+      "rawTextureUuid": "1d57ba0f-10ae-42a2-aaaa-f0228de04a22",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 2,
+      "trimY": 1,
+      "width": 509,
+      "height": 965,
+      "rawWidth": 514,
+      "rawHeight": 968,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

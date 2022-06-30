@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "1493d5a4-f70a-4a33-acc0-fea7770b787f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 135,
+  "height": 135,
+  "platformSettings": {},
+  "subMetas": {
+    "icon tra cứu": {
+      "ver": "1.0.4",
+      "uuid": "7023e6eb-653a-4dcb-b45f-c6f15f1916a1",
+      "rawTextureUuid": "1493d5a4-f70a-4a33-acc0-fea7770b787f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 131,
+      "height": 132,
+      "rawWidth": 135,
+      "rawHeight": 135,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

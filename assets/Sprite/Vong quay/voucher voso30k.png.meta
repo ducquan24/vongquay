@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "0f47fb81-bd43-4aa7-b0a8-9d13716832bd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 103,
+  "height": 107,
+  "platformSettings": {},
+  "subMetas": {
+    "voucher voso30k": {
+      "ver": "1.0.4",
+      "uuid": "8ac53f7a-c642-41a5-b495-d07cc87ac487",
+      "rawTextureUuid": "0f47fb81-bd43-4aa7-b0a8-9d13716832bd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 103,
+      "height": 107,
+      "rawWidth": 103,
+      "rawHeight": 107,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
